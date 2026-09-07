@@ -89,7 +89,13 @@ The current version focuses on validating the basic customer ordering and WhatsA
 
 🌐 Live Demo
 
-Coming soon.
+<img width="260" height="280" alt="preview png" src="https://github.com/user-attachments/assets/7df69ce2-4b54-4008-9ea8-cc955a7891e5" />
+<img width="260" height="280" alt="preview png 1" src="https://github.com/user-attachments/assets/c3cdd627-37d5-4a14-b112-b200e2c13737" />
+<img width="260" height="280" alt="preview png 2" src="https://github.com/user-attachments/assets/bc3cb062-b4be-4a52-96bb-24d0ef14e9aa" />
+<img width="260" height="280" alt="preview png 3" src="https://github.com/user-attachments/assets/bb56b7b3-b580-41b2-8d84-db782f08b509" />
+
+
+
 
 👨‍💻 Project Purpose
 
